@@ -2,7 +2,7 @@
 publish: true
 title: Mi nota
 created: 2026-09-09T07:04:16.486Z
-modified: 2026-09-09T08:18:30.383Z
+modified: 2026-09-09T08:26:38.431Z
 ---
 
 Esta es su nueva _bóveda_.
@@ -18,3 +18,7 @@ anem a provar altra cosa
 ---
 
 fdsdfsdf
+
+---
+
+[[prova01]]
