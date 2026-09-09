@@ -2,7 +2,7 @@
 publish: true
 title: Mi nota
 created: 2026-09-09T07:04:16.486Z
-modified: 2026-09-09T08:16:51.282Z
+modified: 2026-09-09T08:18:30.383Z
 ---
 
 Esta es su nueva _bóveda_.
@@ -14,3 +14,7 @@ Cuando esté listo, borre esta nota y aprópiese de la bóveda
 anem a provar altra cosa
 
 !!!
+
+---
+
+fdsdfsdf
